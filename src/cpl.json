@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "cpl": 3,
+        "filePath": "src\\HttpApiDefinition.ts",
+        "pos": 2348
+    },
+    {
+        "cpl": 1,
+        "filePath": "src\\makeHttpRequestData.ts",
+        "pos": 607
+    }
+]

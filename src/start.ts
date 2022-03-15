@@ -1,2 +1,2 @@
-import { hello } from "./hello.js";
-hello();
+export {};
+console.log(`Its a library. Can't start it`);
